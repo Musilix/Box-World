@@ -1,0 +1,37 @@
+{
+  "hash": "fa410687",
+  "configHash": "1bbe4a7c",
+  "lockfileHash": "0f1961d9",
+  "browserHash": "69125369",
+  "optimized": {
+    "diff": {
+      "src": "../../node_modules/diff/lib/index.mjs",
+      "file": "diff.js",
+      "fileHash": "1227ad9a",
+      "needsInterop": false
+    },
+    "kaplay": {
+      "src": "../../node_modules/kaplay/dist/kaplay.mjs",
+      "file": "kaplay.js",
+      "fileHash": "a5b5c4e6",
+      "needsInterop": false
+    },
+    "socket.io-client": {
+      "src": "../../node_modules/socket.io-client/build/esm/index.js",
+      "file": "socket__io-client.js",
+      "fileHash": "0949bb81",
+      "needsInterop": false
+    },
+    "svelte": {
+      "src": "../../node_modules/svelte/src/index-client.js",
+      "file": "svelte.js",
+      "fileHash": "67fbdd87",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-M4H726CL": {
+      "file": "chunk-M4H726CL.js"
+    }
+  }
+}
